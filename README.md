@@ -2,7 +2,7 @@
 
 🖥️ Full-stack developer with a UX/UI background<br/>
 ⚙️ Skilled in building web applications from front-end to backend, enjoying the full development cycle<br/>
-🎨 Focused on responsive and user-friendly interfaces<br/>  
+🎨 Focused on responsive and user-friendly interfaces<br/>
 🚀 Creating pet projects and experimenting with new technologies<br/>
 
 ## 🌐 Socials:
