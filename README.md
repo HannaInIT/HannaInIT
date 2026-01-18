@@ -3,7 +3,8 @@
 🖥️ Full-stack developer with a UX/UI background<br/>
 ⚙️ Skilled in building web applications from front-end to backend, enjoying the full development cycle<br/>
 🎨 Focused on responsive and user-friendly interfaces<br/>
-🚀 Creating pet projects and experimenting with new technologies<br/>
+🌍 Currently learning Dutch and improving my language skills<br/>
+🚀 Actively working on pet projects, refining previous ones, and exploring new technologies<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanna-dubyna/)
